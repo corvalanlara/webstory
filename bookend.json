@@ -1,0 +1,23 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "facebook",
+    "twitter",
+    "email"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "La bio"
+    }, 
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Neón, obra digital",
+          "url": "https://corvalan.dev/neon"
+        }
+      ]
+    }
+  ]
+}
